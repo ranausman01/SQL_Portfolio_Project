@@ -4,7 +4,7 @@
 
 This project serves as a testament to my expertise in SQL data manipulation and exploration techniques, showcasing proficiency in Joins, CTEs (Common Table Expressions), Temp Tables, Windows Functions, Aggregate Functions, Creating Views, and Converting Data Types. Leveraging Covid-19 datasets sourced from `coviddeaths.xlsx` and `covidvaccinations.xlsx`, this project delves into critical analyses of the pandemic's impact.
 
-##Project Objectives:
+## Project Objectives:
 
 The primary objectives of this project were to:
 
